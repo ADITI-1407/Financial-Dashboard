@@ -23,3 +23,4 @@ This project helped me strengthen my skills in:
 ✅ Interactive Dashboard Development
 ✅ Data Visualization & Business Insights
 Every visualization was chosen to make the dashboard more interactive, insightful, and user-friendly for financial decision-making.# Financial-Dashboard
+https://github.com/ADITI-1407/Financial-Dashboard/blob/main/Screenshot%202026-06-23%20195500.png
